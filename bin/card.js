@@ -17,7 +17,7 @@ const data = {
     name: chalk.white('Pranoy Chakraborty'),
     handle: chalk.cyan('@developersview'),
     labelWork: chalk.white.bold('      Work:'),
-    work: chalk.white('Software Engineer at CGI'),
+    work: chalk.white('Software Engineer'),
     labelTwitter: chalk.white.bold('   Twitter:'),
     twitter: chalk.cyan('https://twitter.com/ig_pranoy'),
     labelGitHub: chalk.white.bold('    GitHub:'),
