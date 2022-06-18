@@ -1,6 +1,6 @@
 {
     "name": "pranoy",
-    "version": "1.2.1",
+    "version": "1.2.2",
     "description": "Pranoy Chakraborty (@developersview)'s business card",
     "main": "./bin/card.js",
     "bin": {
