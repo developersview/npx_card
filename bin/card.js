@@ -24,7 +24,7 @@ const data = {
     github: chalk.cyan('https://github.com/developersview'),
     labelLinkedIn: chalk.white.bold('  LinkedIn:'),
     linkedin: chalk.cyan('https://linkedin.com/in/pranoy-chakraborty'),
-    labelWeb: chalk.white.bold('       Instagram:'),
+    labelWeb: chalk.white.bold('Instagram:'),
     web: chalk.cyan('https://instagram.com/ig_pranoy'),
     labelCard: chalk.white.bold('      Card:'),
     npx: chalk.white('npx pranoy'),
