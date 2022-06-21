@@ -15,5 +15,3 @@ And get to know me in unique style.
 The final output might look something like this:
 
 ![image](https://github.com/developersview/npx_card/blob/master/npxcard.png)
-
-<hr/>
